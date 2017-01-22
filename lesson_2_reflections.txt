@@ -33,3 +33,5 @@ manually?
 
 **Git's automatic merge is so convenient but always we can't use it.
 **Manual merge is used always but there are many workload to do so.
+
+#comment add
